@@ -1,0 +1,36 @@
+.hc {
+        background-color: white;
+        color: black;
+        font-family: verdana;
+        font-size: 28px;
+        line-height: 2px;
+        margin-bottom: 10px;
+}
+
+.bp {
+        background-color: white;
+        color: rgb(189, 175, 155);
+        font-family: verdana;
+        font-size: 18px;
+        margin-bottom: 10px;
+}
+
+.para {
+        background-color: white;
+        color: black;
+        font-family: verdana;
+        font-size: 15px;
+        width: 380px;
+}
+
+.btn {
+        background-color: green;
+        color: white;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 18px;
+        padding-right: 18px;
+        border: none;
+        border-radius: 3px;
+        font-size: 18px;
+}
